@@ -19,7 +19,7 @@ Empowering schools with technology to simplify administration, organize academic
   <a href="https://app.eduschoolsaathi.orgL">🌐 Official Website</a> •
   <a href="https://www.instagram.com/eduschool_saathi">Instagram</a> •
   <a href="https://medium.com/@eduschoolsaathi">Medium</a> •
-  <a href="https://www.favebook.com/eduschool_saathi">Facebook</a>
+  <a href="https://www.favebook.com/eduschool_saathi">Facebook</a> •
   <a href="https://www.quora.com/profile/EduSchool-Saathi">Quora</a> •
   
 </p>
